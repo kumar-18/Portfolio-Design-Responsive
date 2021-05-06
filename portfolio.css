@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-title {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #4b6cc1;
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.portfolio-container {
+    background-color: #191a1d;
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    color: #ffffff;
+    font-family: Roboto;
+    padding-top: 10px;
+}
+
+.subtitle {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+.contact-button {
+    border: none;
+    border-radius: 8px;
+    background-color: #4b6cc1;
+    color: #ffffff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 18px;
+    padding-right: 18px;
+    width: 130px;
+    height: 45px;
+}
+
+.about-section {
+    background-color: #323f4b;
+}
+
+.about-section-subhead {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.about-section-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.about-section-des {
+    color: #9aa5b1;
+}
+
+.skills-section {
+    background-color: #1f2933;
+}
+
+.skills-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.skill-title {
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.skill-image {
+    width: 64px;
+    height: 64px;
+}
+
+.project-section {
+    background-color: #3e4c59;
+}
+
+.project-details {
+    background-color: #323f4b;
+    padding: 10px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.project-subhead {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.project-head {
+    color: #ffffff;
+    font-size: 34px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.project-domain {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+.project-title {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 26px;
+}
+
+.project-des {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 22px;
+}
+
+.readmore {
+    color: #cced00;
+    text-decoration: none;
+}
+
+.readmore:hover {
+    color: #cced00;
+    text-decoration: none;
+}
+
+.services-section {
+    background-color: #52606d;
+}
+
+.services-details {
+    background-color: #323f4b;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.services-subhead {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.services-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.services-title {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.services-des {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.workdone-section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    font-family: Roboto;
+}
+
+.testimonals-container {
+    background-color: #1f2933;
+    height: 100%;
+}
+
+.testimonals-details {
+    background-color: #323f4b;
+}
+
+.testimonals-subhead {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Testimonals-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.testimonal-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+}
+
+.testimonals-des {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+.testimonal-name {
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.footer-section {
+    background-color: #001c32;
+}
+
+.profile-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+.profile-detail {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 28px;
+
+}
+
+.profile-des {
+    color: #5a7184;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.copyright {
+    background-color: #0d2436;
+    width: 100%;
+}
+
+.c-text {
+    color: #5a7184;
+    font-size: 17px;
+    font-family: Roboto;
+    font-weight: bold;
+}
