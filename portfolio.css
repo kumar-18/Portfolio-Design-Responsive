@@ -13,7 +13,9 @@
     background-size: cover;
     height: 100vh;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 .title {
     color: #ffffff;
     font-family: Roboto;
